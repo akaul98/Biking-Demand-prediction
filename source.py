@@ -5,7 +5,7 @@
 
 # Problem Statement:Predict the count  of bikes rented on hourly basis 
 
- 
+  
 
 '''Step 0)  Analysis of data
    Step 1)  Reading of data
