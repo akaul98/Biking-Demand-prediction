@@ -2,18 +2,6 @@
 Bike Sharing Dataset
 ==========================================
 
-Hadi Fanaee-T
-
-Laboratory of Artificial Intelligence and Decision Support (LIAAD), University of Porto
-INESC Porto, Campus da FEUP
-Rua Dr. Roberto Frias, 378
-4200 - 465 Porto, Portugal
-
-
-=========================================
-Background 
-=========================================
-
 Bike sharing systems are new generation of traditional bike rentals where whole process from membership, rental and return 
 back has become automatic. Through these systems, user is able to easily rent a bike from a particular position and return 
 back at another position. Currently, there are about over 500 bike-sharing programs around the world which is composed of 
@@ -84,28 +72,4 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 	- registered: count of registered users
 	- cnt: count of total rental bikes including both casual and registered
 	
-=========================================
-License
-=========================================
-Use of this dataset in publications must be cited to the following publication:
 
-[1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
-
-@article{
-	year={2013},
-	issn={2192-6352},
-	journal={Progress in Artificial Intelligence},
-	doi={10.1007/s13748-013-0040-3},
-	title={Event labeling combining ensemble detectors and background knowledge},
-	url={http://dx.doi.org/10.1007/s13748-013-0040-3},
-	publisher={Springer Berlin Heidelberg},
-	keywords={Event labeling; Event detection; Ensemble learning; Background knowledge},
-	author={Fanaee-T, Hadi and Gama, Joao},
-	pages={1-15}
-}
-
-=========================================
-Contact
-=========================================
-	
-For further information about this dataset please contact Hadi Fanaee-T (hadi.fanaee@fe.up.pt)
